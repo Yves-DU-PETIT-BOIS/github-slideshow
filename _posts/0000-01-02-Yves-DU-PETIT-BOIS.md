@@ -2,5 +2,5 @@
 layout: slide
 title: "Welcome to our second slide!"
 ---
-Your text
+la place de la femme c'est **à la kouisine !!!**
 Use the left arrow to go back!
